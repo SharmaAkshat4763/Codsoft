@@ -1,16 +1,23 @@
-# doto
+# Todo App
 
-A new Flutter project.
+A simple Todo App built with Flutter.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Add new tasks
+- Mark tasks as completed
+- Delete tasks
+- Filter tasks by status (completed, active)
+- Dark mode support
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Screenshot 1](screenshots/screenshot1.png)
+![Screenshot 2](screenshots/screenshot2.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/your-username/todo-app.git
