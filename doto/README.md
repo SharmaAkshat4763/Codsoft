@@ -8,7 +8,7 @@ A simple Todo App built with Flutter.
 - Mark tasks as completed
 - Delete tasks
 - Filter tasks by status (completed, active)
-- Dark mode support
+- Dark mode support(Coming Soon...)
 
 ## Screenshots
 
